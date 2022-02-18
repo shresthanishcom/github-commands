@@ -1,0 +1,24 @@
+git  commands
+
+
+branching git
+
+git branch => shows which branch you are on and list of branchs
+git checkout => going to another branch
+	-b => to create a new branch 
+
+eg: git checkout -b feature => created new feature branch and use it
+
+git checkout master => put HEAD to master branch now
+
+git checkout feature => puts HEAD to feature branch
+
+/////////////////////////////////////////////////////
+
+merge feature branch to master branch
+
+in the master branch command:
+
+git merge feature => this will merge feature branch features to master branch
+
+
